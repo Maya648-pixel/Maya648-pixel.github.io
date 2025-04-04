@@ -1,0 +1,41 @@
+body {
+   background-color: #fac7c7;
+}
+
+.card {
+  background-color: #f8f4e0;
+color: #f7aaaa;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(138, 128, 128, 0.1);
+    margin-top: 20px;
+    padding: 20px;
+}
+
+.image {
+
+    background-image: url(https://wallpapers.com/images/hd/cute-aesthetic-strawberry-desktop-mlnfwdx8dayv5zct.jpg); 
+
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px 10px 10px 10px;
+    height: 95%;
+}
+
+.colored-btn {
+    background-color: rgba(254, 187, 187, 0.948);
+    margin: 9%;
+    color: rgb(251, 245, 245);
+}
+
+.rainbow-btn {
+    background: linear-gradient(45deg, #daf78c, #86f4d1, #fb9ee1);
+}
+
+.pink-btn {
+    background: linear-gradient(45deg, #f9cafc, #f86cea);
+}
+
+.green-btn {
+    background: linear-gradient(45deg, #a8f9a0, #86f4d1);
+}
+
